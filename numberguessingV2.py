@@ -16,7 +16,7 @@ def guess():
         if attempt <= 3:
             print(f"This was your {attempt} attempt")
             if (guess == number):
-                print("You have guessed the number correctly")
+                 print("You have guessed the number correctly")
                 guessed = True
             elif guess < number:
                 print(f"The value to be guessed is larger than {guess}")

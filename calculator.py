@@ -1,6 +1,5 @@
 # Day 2: Simple Calculator
-# Problem: Create a basic calculator that takes two numbers
-# and performs addition, subtraction, multiplication, and division.
+# Problem: Create a basic calculator that takes two numbers and performs addition, subtraction, multiplication, and division.
 
 # Solution:
 def add(x, y):

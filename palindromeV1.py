@@ -13,7 +13,6 @@ while left_ptr < right_ptr:
     left_ptr += 1
     right_ptr -= 1
     
-
 if palindrome:
     print("The given string is a palindrome")
 else:
